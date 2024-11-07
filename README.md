@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irina
-- 👀 I’m interested in Mobile Web Development
 - 🌱 I’m currently learning at triOS College
+- 👀 I’m interested in Mobile Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: I have  [My WEBsite](https://rabbitrunout.github.io/)
