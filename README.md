@@ -3,7 +3,7 @@
 - 👀 I’m interested in Mobile Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ⚡ Fun fact: I have  [My WEBsite][([https://rabbitrunout.github.io/](https://rabbitrunout.github.io/rabbitrunout.github.io/
+- ⚡ Fun fact: I have  [My Website][(https://rabbitrunout.github.io/rabbitrunout.github.io/
 )]
 <!---
 rabbitrunout/rabbitrunout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
