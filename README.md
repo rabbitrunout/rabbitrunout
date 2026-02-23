@@ -1,66 +1,88 @@
-# 👋 Hi, I'm Irina Safronova
+# 👋 Hi, I'm Irina Safronova  
 
-Mobile & Frontend Developer  
-SwiftUI · React · REST APIs · Full-Stack Foundations
+iOS Developer focused on SwiftUI & scalable mobile architecture  
+Strong full-stack foundation | React · REST APIs · SQL  
 
-🎓 Mobile Web Developer using AI – triOS College (Graduated 2026)  
-💼 Currently completing a Software Development Internship
+🎓 Mobile Web Developer using AI — triOS College (Graduated 2026)  
+💼 Currently completing a Software Development Internship  
 
 ---
 
 ## 🚀 About Me
 
-I build mobile and web applications with a focus on clean UI, scalable architecture, and structured data flow.  
+I build modern mobile and web applications with a focus on:
 
-My primary focus is iOS development using SwiftUI and Core Data, while maintaining strong full-stack fundamentals including React, REST APIs, and SQL-based backend systems.
+- Clean architecture
+- Structured data modeling
+- Scalable feature-based organization
+- Clear separation of UI and business logic
 
-I enjoy owning features end-to-end — from UI design and state management to API integration and data modeling.
+My primary focus is **iOS development using SwiftUI and Core Data**,  
+while maintaining strong full-stack fundamentals including React, REST APIs, and relational database systems.
+
+I enjoy owning features end-to-end — from UI design and state management to API integration and data persistence.
 
 ---
 
-## 📱 Featured Projects
+## 🌟 Featured Projects
 
-### 🔹 FluiDex Drive  
+### 🚗 FluiDex Drive  
 iOS vehicle maintenance app  
-SwiftUI · Core Data  
-- Built modular SwiftUI views  
-- Implemented persistent storage with Core Data  
-- Structured data models and state handling  
+SwiftUI · Core Data · Firebase  
+
+- Feature-first modular architecture  
+- Structured Core Data relationships  
+- Business logic isolation via Managers layer  
+- Local notifications & scalable data model  
 
 ---
 
-### 🔹 SuperPodcast  
+### 🎧 SuperPodcast  
 Android podcast application  
-Kotlin · Jetpack Compose  
-- Designed modern Compose-based UI  
-- Managed app state and API integration  
+Kotlin · Jetpack Compose · Media3  
+
+- MVVM architecture  
+- Retrofit API integration  
+- RSS parsing with XmlPullParser  
+- Centralized playback state management  
 
 ---
 
-### 🔹 Full-Stack Booking Platform  
+### 🌐 Full-Stack Booking Platform  
 React / Angular · PHP · MySQL  
+
 - Developed SPA interfaces  
 - Designed REST APIs  
 - Structured relational database schemas  
-- Implemented dashboards and scheduling workflows  
+- Implemented dashboards & scheduling workflows  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
-**Mobile:** Swift, SwiftUI, Core Data, Kotlin (foundational)  
-**Frontend:** React, Angular, TypeScript, HTML5, CSS3  
-**Backend:** PHP, REST APIs  
-**Database:** MySQL  
-**Tools:** Git, Agile workflows  
+### Mobile
+Swift · SwiftUI · Core Data  
+Kotlin · Jetpack Compose  
+
+### Frontend
+React · Angular · TypeScript · HTML5 · CSS3  
+
+### Backend
+PHP · REST APIs  
+
+### Database
+MySQL · Core Data  
+
+### Tools
+Git · Agile workflows · Xcode · Android Studio  
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
-Portfolio: https://rabbitrunout.github.io/  
-LinkedIn: https://www.linkedin.com/in/irina-safronova-688130243/  
-Email: irina.safronova0801@gmail.com  
+🌐 Portfolio: https://rabbitrunout.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/irina-safronova-688130243/  
+✉️ Email: irina.safronova0801@gmail.com  
 
 ---
 
