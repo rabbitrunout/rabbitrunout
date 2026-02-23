@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irina Safronova  
+# 👋 Hi, I'm Irina  
 
 iOS Developer focused on SwiftUI & scalable mobile architecture  
 Strong full-stack foundation | React · REST APIs · SQL  
