@@ -1,50 +1,76 @@
-# 👋 Hi, I'm Irina  
+# 👋 Hi, I'm Irina   
 
-iOS Developer focused on SwiftUI & scalable mobile architecture  
-Strong full-stack foundation | React · REST APIs · SQL  
+### iOS Developer | SwiftUI · Core Data · MVVM  
+Mobile Engineer with Full-Stack Foundation  
 
-🎓 Mobile Web Developer using AI — triOS College (Graduated 2026)  
-💼 Currently completing a Software Development Internship  
+Toronto, ON, Canada  
 
 ---
 
 ## 🚀 About Me
 
-I build modern mobile and web applications with a focus on:
+I am a mobile-focused software developer specializing in **iOS development using Swift and SwiftUI**, with strong foundations in backend integration and structured data modeling.
 
-- Clean architecture
-- Structured data modeling
-- Scalable feature-based organization
-- Clear separation of UI and business logic
+I build scalable, modular applications with clear separation between UI, business logic, and persistence layers. I enjoy owning features end-to-end — from architecture design and state management to API integration and performance optimization.
 
-My primary focus is **iOS development using SwiftUI and Core Data**,  
-while maintaining strong full-stack fundamentals including React, REST APIs, and relational database systems.
+Currently completing a Software Development Internship while finishing my diploma in Mobile Web Development.
 
-I enjoy owning features end-to-end — from UI design and state management to API integration and data persistence.
+---
+
+## 💡 Core Competencies
+
+### 📱 iOS Development
+- Swift
+- SwiftUI
+- Core Data
+- MVVM architecture
+- Feature-first modular structure
+- Local Notifications
+- REST API integration
+- JSON parsing
+- Debugging & profiling (Xcode)
+
+### 🌐 Full-Stack Foundation
+- React
+- TypeScript / JavaScript
+- PHP (modular backend structure)
+- REST APIs
+- MySQL
+- Relational database design
+
+### 🛠 Tools
+- Xcode
+- Git / GitHub
+- Postman
+- Android Studio (foundational)
+- Jira
+- Figma
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚗 FluiDex Drive  
-iOS vehicle maintenance app  
+**iOS Vehicle Maintenance Application**  
 SwiftUI · Core Data · Firebase  
 
-- Feature-first modular architecture  
-- Structured Core Data relationships  
-- Business logic isolation via Managers layer  
-- Local notifications & scalable data model  
+- Designed feature-first modular architecture  
+- Built structured Core Data relationships  
+- Implemented business logic isolation via Managers layer  
+- Integrated local notifications & scalable data model  
+- Applied MVVM and clean separation of concerns  
 
 ---
 
 ### 🎧 SuperPodcast  
-Android podcast application  
-Kotlin · Jetpack Compose · Media3  
+**Android Podcast Application**  
+Kotlin · MVVM · Media3  
 
-- MVVM architecture  
-- Retrofit API integration  
-- RSS parsing with XmlPullParser  
-- Centralized playback state management  
+- Implemented iTunes Search API integration  
+- Parsed RSS feeds using XmlPullParser  
+- Built centralized playback state manager  
+- Applied clean MVVM architecture  
+- Designed modern dark UI  
 
 ---
 
@@ -53,28 +79,16 @@ React / Angular · PHP · MySQL
 
 - Developed SPA interfaces  
 - Designed REST APIs  
-- Structured relational database schemas  
-- Implemented dashboards & scheduling workflows  
+- Built structured relational database schemas  
+- Implemented authentication & role-based access  
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Activity
 
-### Mobile
-Swift · SwiftUI · Core Data  
-Kotlin · Jetpack Compose  
-
-### Frontend
-React · Angular · TypeScript · HTML5 · CSS3  
-
-### Backend
-PHP · REST APIs  
-
-### Database
-MySQL · Core Data  
-
-### Tools
-Git · Agile workflows · Xcode · Android Studio  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbitrunout&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -86,4 +100,4 @@ Git · Agile workflows · Xcode · Android Studio
 
 ---
 
-✨ Outside of tech, I design rhythmic gymnastics apparel — combining creativity, precision, and attention to detail.
+✨ Outside of tech, I design rhythmic gymnastics apparel — combining creativity with precision and attention to detail.
