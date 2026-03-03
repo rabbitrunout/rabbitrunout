@@ -27,9 +27,9 @@ React · TypeScript · PHP · MySQL · REST APIs
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,react,php,mysql,postgres,git,github,xcode,jira,figma&theme=dark" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=swift,react,php,mysql,postgres,git,github,figma&theme=dark" />
+</div>
 
 ---
 
