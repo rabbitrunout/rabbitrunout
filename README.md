@@ -9,82 +9,63 @@ Toronto, ON, Canada
 
 ## 🚀 About Me
 
-I am a mobile-focused software developer specializing in **iOS development using Swift and SwiftUI**, with strong foundations in backend integration and structured data modeling.
+Mobile-focused software developer specializing in **iOS development using Swift and SwiftUI**, with strong backend integration and data modeling foundations.
 
-I build scalable, modular applications with clear separation between UI, business logic, and persistence layers. I enjoy owning features end-to-end — from architecture design and state management to API integration and performance optimization.
-
-Currently completing a Software Development Internship while finishing my diploma in Mobile Web Development.
+I build scalable, modular applications with clear separation of UI, business logic, and persistence layers. I enjoy owning features end-to-end — from architecture design to API integration and performance optimization.
 
 ---
 
-## 💡 Core Competencies
+## 💡 Core Skills
 
-### 📱 iOS Development
-- Swift
-- SwiftUI
-- Core Data
-- MVVM architecture
-- Feature-first modular structure
-- Local Notifications
-- REST API integration
-- JSON parsing
-- Debugging & profiling (Xcode)
+### 📱 Mobile Development
+Swift · SwiftUI · Core Data · MVVM · REST Integration  
 
 ### 🌐 Full-Stack Foundation
-- React
-- TypeScript / JavaScript
-- PHP (modular backend structure)
-- REST APIs
-- MySQL
-- Relational database design
+React · TypeScript · PHP · MySQL · REST APIs  
 
-### 🛠 Tools
-- Xcode
-- Git / GitHub
-- Postman
-- Android Studio (foundational)
-- Jira
-- Figma
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,php,mysql,git,github,xcode,androidstudio,postman,figma&theme=dark" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚗 FluiDex Drive  
-**iOS Vehicle Maintenance Application**  
-SwiftUI · Core Data · Firebase  
+**iOS Vehicle Maintenance App**  
+SwiftUI · Core Data · MVVM  
 
-- Designed feature-first modular architecture  
-- Built structured Core Data relationships  
-- Implemented business logic isolation via Managers layer  
-- Integrated local notifications & scalable data model  
-- Applied MVVM and clean separation of concerns  
+- Feature-first modular architecture  
+- Structured Core Data relationships  
+- Business logic isolation via Managers layer  
+- Local notifications & scalable data model  
 
 ---
 
 ### 🎧 SuperPodcast  
-**Android Podcast Application**  
+**Android Podcast App**  
 Kotlin · MVVM · Media3  
 
-- Implemented iTunes Search API integration  
-- Parsed RSS feeds using XmlPullParser  
-- Built centralized playback state manager  
-- Applied clean MVVM architecture  
-- Designed modern dark UI  
+- iTunes API integration  
+- RSS parsing  
+- Centralized playback state manager  
 
 ---
 
 ### 🌐 Full-Stack Booking Platform  
-React / Angular · PHP · MySQL  
+React · PHP · MySQL  
 
-- Developed SPA interfaces  
-- Designed REST APIs  
-- Built structured relational database schemas  
-- Implemented authentication & role-based access  
+- SPA architecture  
+- REST API design  
+- Role-based dashboards  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabbitrunout&show_icons=true&theme=tokyonight" />
