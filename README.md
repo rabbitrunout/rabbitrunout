@@ -34,6 +34,9 @@ React · TypeScript · PHP · MySQL · REST APIs
   <img src="https://streak-stats.demolab.com?user=rabbitrunout&theme=tokyonight&hide_border=true"/>
 </p>
 
+
+Visitor counter:
+<img src="https://komarev.com/ghpvc/?username=rabbitrunout&color=blueviolet&style=flat-square" />
 ---
 
 ## 🌟 Featured Projects
