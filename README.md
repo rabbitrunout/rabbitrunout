@@ -3,7 +3,7 @@
 ### iOS Developer | SwiftUI · Core Data · MVVM  
 Mobile Engineer with Full-Stack Foundation  
 
-📍 Toronto, ON, Canada
+📍 Mississauga, ON, Canada
 
 ---
 
