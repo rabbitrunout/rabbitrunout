@@ -65,16 +65,6 @@ React · PHP · MySQL
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=rabbitrunout&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 🌐 Portfolio  
