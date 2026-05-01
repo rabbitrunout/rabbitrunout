@@ -1,27 +1,40 @@
-# 👋 Hi, I'm Irina
+# 👋 Hi, I'm Irina Safronova
 
 ### iOS Developer | SwiftUI · Core Data · MVVM  
-Mobile Engineer with Full-Stack Foundation  
-
-📍 Mississauga, ON, Canada
+📍 Mississauga, ON, Canada  
 
 ---
 
 ## 🚀 About Me
 
-Mobile-focused software developer specializing in **iOS development using Swift and SwiftUI**, with strong backend integration and data modeling foundations.
+Mobile-focused software developer specializing in iOS development with Swift and SwiftUI.
 
-I build scalable, modular applications with clear separation of UI, business logic, and persistence layers. I enjoy owning features end-to-end — from architecture design to API integration and performance optimization.
+I have hands-on experience building production-ready features, integrating REST APIs, and handling real-world application scenarios such as data flow, UI states, and edge cases.
+
+I focus on building scalable and maintainable applications using MVVM architecture, clean code practices, and structured problem-solving.
+
+---
+
+## 🧩 Experience
+
+**Software Developer Intern — R-A-Ones Corporation**  
+Brampton, ON | 01/2026 – Present  
+
+- Developed and shipped production-ready features using React and Next.js  
+- Built reusable UI components and improved user flows  
+- Integrated REST APIs with authentication and error handling  
+- Reduced UI bugs through debugging, testing, and edge case handling  
+- Collaborated in Agile environment using Git workflows  
 
 ---
 
 ## 💡 Core Skills
 
 ### 📱 Mobile Development
-Swift · SwiftUI · Core Data · MVVM · REST Integration
+Swift · SwiftUI · Core Data · MVVM · REST API Integration  
 
-### 🌐 Full-Stack Foundation
-React · TypeScript · PHP · MySQL · REST APIs
+### 🌐 Frontend & API
+React · TypeScript · HTML · CSS · PHP · MySQL  
 
 ---
 
@@ -35,33 +48,44 @@ React · TypeScript · PHP · MySQL · REST APIs
 
 ## 🌟 Featured Projects
 
-### 🚗 FluiDex Drive
+### 🚗 FluiDex Drive  
 **iOS Vehicle Maintenance App**  
-SwiftUI · Core Data · MVVM
+SwiftUI · Core Data · MVVM  
 
-- Feature-first modular architecture  
-- Structured Core Data relationships  
-- Business logic isolation via Managers layer  
-- Local notifications & scalable data model  
+- Built modular iOS application with feature-based architecture  
+- Designed structured Core Data relationships for scalable data handling  
+- Implemented business logic layer for separation of concerns  
+- Handled real-world UI states (loading, empty, error)  
+- Improved application stability through debugging and edge case handling  
 
 ---
 
-### 🎧 SuperPodcast
+### 🎧 SuperPodcast  
 **Android Podcast App**  
 Kotlin · MVVM · Media3  
 
-- iTunes API integration  
-- RSS parsing  
-- Centralized playback state manager  
+- Integrated iTunes API and RSS feeds  
+- Implemented centralized playback state management  
+- Built structured and responsive UI  
 
 ---
 
-### 🌐 Full-Stack Booking Platform
-React · PHP · MySQL
+### 🌐 Full-Stack Booking Platform  
+React · PHP · MySQL  
 
-- SPA architecture  
-- REST API design  
-- Role-based dashboards  
+- Developed full-stack booking system with role-based workflows  
+- Designed REST API structure and integrated frontend with backend  
+- Handled API responses, error states, and data flow  
+- Improved user experience with structured UI states  
+
+---
+
+## ⚡ What I Focus On
+
+- Building scalable and maintainable UI architecture  
+- Writing clean, production-ready code  
+- Handling real-world application states and edge cases  
+- Continuous learning and improving system design skills  
 
 ---
 
@@ -74,7 +98,7 @@ https://rabbitrunout.github.io/
 https://www.linkedin.com/in/irina-safronova-688130243/
 
 ✉️ Email  
-irina.safronova0801@gmail.com
+irina.safronova0801@gmail.com  
 
 ---
 
