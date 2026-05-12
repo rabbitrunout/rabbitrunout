@@ -1,109 +1,87 @@
-# 👋 Hi, I'm Irina Safronova
+👋 Hi, I'm Irina Safronova
+Software Developer | iOS · Frontend · Full-Stack
 
-### iOS Developer | SwiftUI · Core Data · MVVM  
-📍 Mississauga, ON, Canada  
+📍 Mississauga, ON, Canada
 
----
+🚀 About Me
 
-## 🚀 About Me
+Software Developer with hands-on experience building full-stack web and iOS applications using modern frontend and mobile technologies.
 
-Mobile-focused software developer specializing in iOS development with Swift and SwiftUI.
+Experienced in developing production-ready features, integrating REST APIs, building scalable UI architecture, and handling real-world application states including loading, validation, error handling, and edge cases.
 
-I have hands-on experience building production-ready features, integrating REST APIs, and handling real-world application scenarios such as data flow, UI states, and edge cases.
+I enjoy building clean, maintainable, and user-focused applications with strong attention to scalability, product thinking, and real-world usability.
 
-I focus on building scalable and maintainable applications using MVVM architecture, clean code practices, and structured problem-solving.
+💼 Experience
+Software Developer Intern — R-A-Ones Corporation
 
----
+Brampton, ON | Jan 2026 – May 2026
 
-## 🧩 Experience
+Developed and shipped production-ready frontend features using React, Next.js, and TypeScript
+Built reusable UI components and improved application workflows
+Integrated REST APIs with authentication, validation, and error handling
+Reduced UI bugs through debugging, testing, and edge case handling
+Collaborated in Agile environment using Git workflows and pull requests
+Worked with structured API documentation and modern frontend architecture
+💡 Core Skills
+📱 Mobile Development
 
-**Software Developer Intern — R-A-Ones Corporation**  
-Brampton, ON | 01/2026 – Present  
+Swift · SwiftUI · Core Data · MVVM · iOS Development
 
-- Developed and shipped production-ready features using React and Next.js  
-- Built reusable UI components and improved user flows  
-- Integrated REST APIs with authentication and error handling  
-- Reduced UI bugs through debugging, testing, and edge case handling  
-- Collaborated in Agile environment using Git workflows  
+🌐 Frontend & Full-Stack
 
----
+React · Next.js · TypeScript · JavaScript · HTML · CSS · PHP · MySQL · REST APIs
 
-## 💡 Core Skills
+⚙️ Development Workflow
 
-### 📱 Mobile Development
-Swift · SwiftUI · Core Data · MVVM · REST API Integration  
+Git · GitHub · Swagger · Agile/Scrum · Figma · AI-Assisted Development
 
-### 🌐 Frontend & API
-React · TypeScript · HTML · CSS · PHP · MySQL  
+🛠 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=swift,kotlin,react,nextjs,ts,js,php,mysql,git,github,xcode,androidstudio,figma,vscode,linux&theme=dark"/> </p>
+🌟 Featured Projects
+✨ Glowi — Rhythmic Gymnastics Companion App
 
----
+SwiftUI · MVVM · Product-Oriented Architecture
 
-## 🛠 Tech Stack
+Built modern iOS application for managing athlete schedules, payments, competitions, and notifications
+Implemented role-based UX logic and scalable MVVM architecture
+Designed reusable UI system with structured state-driven components
+Handled real-world application states including loading, empty, validation, and error flows
+Applied AI-assisted workflows for prototyping, debugging, and productivity optimization
+🚗 FluiDex Drive
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,php,mysql,git,github,xcode,androidstudio,figma,vscode,linux&theme=dark"/>
-</p>
+iOS Vehicle Maintenance App
+SwiftUI · Core Data · MVVM
 
----
+Built modular iOS application with scalable feature-based architecture
+Designed structured Core Data relationships for maintainable local persistence
+Implemented business logic separation using MVVM principles
+Improved application reliability through debugging and edge case handling
+🌐 Full-Stack Booking Platform
 
-## 🌟 Featured Projects
+React · PHP · MySQL
 
-### 🚗 FluiDex Drive  
-**iOS Vehicle Maintenance App**  
-SwiftUI · Core Data · MVVM  
+Developed full-stack booking system with CRUD operations and structured workflows
+Designed REST API communication between frontend and backend
+Implemented validation, error handling, and responsive UI states
+Built scalable relational database structure for efficient data operations
+⚡ What I Focus On
+Scalable UI architecture
+Clean and maintainable code
+Real-world product thinking
+Frontend engineering & UX
+API integration and state management
+Continuous learning and system design growth
+🌍 Connect With Me
 
-- Built modular iOS application with feature-based architecture  
-- Designed structured Core Data relationships for scalable data handling  
-- Implemented business logic layer for separation of concerns  
-- Handled real-world UI states (loading, empty, error)  
-- Improved application stability through debugging and edge case handling  
+🌐 Portfolio
+rabbitrunout.github.io
 
----
+💼 LinkedIn
+LinkedIn Profile
 
-### 🎧 SuperPodcast  
-**Android Podcast App**  
-Kotlin · MVVM · Media3  
+✉️ Email
+irina.safronova0801@gmail.com
 
-- Integrated iTunes API and RSS feeds  
-- Implemented centralized playback state management  
-- Built structured and responsive UI  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbitrunout&color=blueviolet&style=flat-square"/> </p>
 
----
-
-### 🌐 Full-Stack Booking Platform  
-React · PHP · MySQL  
-
-- Developed full-stack booking system with role-based workflows  
-- Designed REST API structure and integrated frontend with backend  
-- Handled API responses, error states, and data flow  
-- Improved user experience with structured UI states  
-
----
-
-## ⚡ What I Focus On
-
-- Building scalable and maintainable UI architecture  
-- Writing clean, production-ready code  
-- Handling real-world application states and edge cases  
-- Continuous learning and improving system design skills  
-
----
-
-## 🌍 Connect With Me
-
-🌐 Portfolio  
-https://rabbitrunout.github.io/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/irina-safronova-688130243/
-
-✉️ Email  
-irina.safronova0801@gmail.com  
-
----
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=rabbitrunout&color=blueviolet&style=flat-square"/>
-</p>
-
-✨ Outside of tech, I design rhythmic gymnastics apparel — combining creativity with precision and attention to detail.
+✨ Outside of tech, I design rhythmic gymnastics apparel — combining creativity, precision, and attention to detail.
