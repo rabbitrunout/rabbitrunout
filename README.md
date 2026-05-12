@@ -106,10 +106,6 @@ SwiftUI · Core Data · MVVM
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbitrunout&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitrunout&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 🌍 Connect With Me
