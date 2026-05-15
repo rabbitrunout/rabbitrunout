@@ -29,6 +29,8 @@ Experienced in developing production-ready features, integrating REST APIs, buil
 
 I enjoy building clean, maintainable, and user-focused applications with strong attention to scalability, product thinking, and real-world usability.
 
+Interested in modern AI-assisted development workflows, intelligent product systems, and automation-enhanced user experiences.
+
 ---
 
 # 💼 Experience
@@ -42,6 +44,7 @@ Brampton, ON · 2026
 - Reduced UI bugs through debugging, testing, and edge case handling  
 - Collaborated in Agile environment using Git workflows and pull requests  
 - Worked with structured API documentation and modern frontend architecture  
+- Applied AI-assisted workflows for prototyping, debugging, and rapid iteration  
 
 ---
 
@@ -77,6 +80,7 @@ Git · GitHub · Swagger · Agile/Scrum · Figma · AI-Assisted Development
 - Designed reusable UI system with structured state-driven components  
 - Handled real-world application states including loading, empty, validation, and error flows  
 - Applied AI-assisted workflows for prototyping, debugging, and productivity optimization  
+- Explored AI-enhanced training insights and intelligent notification concepts  
 
 ---
 
@@ -89,6 +93,8 @@ SwiftUI · Core Data · MVVM
 - Designed structured Core Data relationships for maintainable local persistence  
 - Implemented business logic separation using MVVM principles  
 - Improved application reliability through debugging and edge case handling  
+- Built predictive maintenance reminder workflows and urgency tracking systems  
+- Explored AI-assisted maintenance prediction logic using historical service patterns  
 
 ---
 
@@ -110,6 +116,7 @@ SwiftUI · Core Data · MVVM
 - Real-world product thinking  
 - Frontend engineering & UX  
 - API integration and state management  
+- AI-assisted development workflows  
 - Continuous learning and system design growth  
 
 ---
