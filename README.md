@@ -23,13 +23,13 @@
 
 # 🚀 About Me
 
-Software Developer with hands-on experience building full-stack web and iOS applications using modern frontend and mobile technologies.
+Software Developer passionate about building modern web and mobile applications.
 
-Experienced in developing production-ready features, integrating REST APIs, building scalable UI architecture, and handling real-world application states including loading, validation, error handling, and edge cases.
+Recently graduated with honours in Mobile Web Development.
 
-I enjoy building clean, maintainable, and user-focused applications with strong attention to scalability, product thinking, and real-world usability.
+Experienced with React, Angular, SwiftUI, PHP, REST APIs, and modern development workflows.
 
-Interested in modern AI-assisted development workflows, intelligent product systems, and automation-enhanced user experiences.
+Currently expanding my skills in AI engineering through the FlyRank AI Internship
 
 ---
 
