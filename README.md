@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irina Safronova</h1>
+<h1 align="center">Hi 👋, I'm Irina </h1>
 <h3 align="center">Software Developer | iOS · Frontend · Full-Stack Engineering</h3>
 
 <p align="center">
