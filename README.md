@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://irina-safronova.vercel.app/]">
+  <a href="[https://irina-safronova.vercel.app]">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
